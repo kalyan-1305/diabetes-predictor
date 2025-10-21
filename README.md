@@ -6,6 +6,12 @@ This is a machine learning project that predicts the likelihood of a patient hav
 
 ---
 
+## 📸 App Preview
+
+![Diabetes Prediction App Screenshot](<img width="650" height="412" alt="image" src="https://github.com/user-attachments/assets/d91cb43c-89da-4c10-9442-23e0dce5f87c" />
+)
+
+
 ## 🎯 Project Overview
 
 This project uses a Logistic Regression model trained on a synthetic dataset of 2,000 patient records. The web app provides a user-friendly interface to input patient data, which is then processed by the trained model to generate a prediction (Diabetes or No Diabetes).
